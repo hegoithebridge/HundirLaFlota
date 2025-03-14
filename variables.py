@@ -1,3 +1,7 @@
 
 
-TAMANO = 15
+TAMANO = 10
+DIFICULTAD = 1
+
+
+
